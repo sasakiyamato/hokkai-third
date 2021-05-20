@@ -1,0 +1,31 @@
+.header{
+    height:80px;
+    width:1350px;
+    border-bottom:2px solid #808080;
+
+}
+.header-logo h1{
+    padding:12px 0px 20px 60px;
+
+}
+.header-logo span{
+font-size:20px;
+}
+.unoff-baby h2{
+    width: 300px;
+text-align: center;
+font-size:36px;
+background-color:antiquewhite;
+border-radius:10px;
+padding:36px 20px;
+opacity: 0.8;
+margin:40px 525px;
+
+}
+
+.body-all{
+width: 1350px;
+margin: auto;
+}
+
+
